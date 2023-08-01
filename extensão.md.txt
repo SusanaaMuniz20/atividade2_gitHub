@@ -1,0 +1,7 @@
+Estes são arquivos de texto utilizadas como arquivos de documentação Markdown através dialetos da língua Markdown. MD arquivos são normalmente guardados em formato de texto simples, incluindo símbolos de texto em linha, definindo como um texto é formatado como os recortes, a sua formatação de tabela, fontes e cabeçalhos. 
+
+Os sistemas de documentação HTML encontrar MD arquivos úteis, bem como o controle de versão de código fonte, porque o texto legível que são historicamente revista pode ser comparado com os arquivos MD Ao contrário dos arquivos binários que não podem ser comparados facilmente. MD arquivos também são criados com a finalidade de autoria documentação de texto simples para facilitar a conversão para HTML. 
+
+Arquivos usando a extensão MD foram desenvolvidos por John Gruber e são usados ​​principalmente pelo programa Markdown a partir do site Daring Fireball. 
+
+Os arquivos leia-me de um projeto criado por meio do sistema de controle de versão online chamado GitHub também usa um formato README.md muitas vezes. MD arquivos são categorizados como arquivos de desenvolvedores mais utilizados pelos Markdown, uma ótima ferramenta para converter arquivos de texto para versões HTML de modo que os usuários podem criar arquivos que são fáceis de ler e escrever.
